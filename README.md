@@ -12,6 +12,10 @@ Vengo de +3 años en branding y comunicación estratégica. Hoy aplico ese enfoq
 
 **Web:** llevo mis diseños a la práctica con HTML y CSS.
 
+## Herramientas
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ## Proyectos
 
 **[Portafolio](https://rusmericardenasprojects.pages.dev/)**: mis proyectos y mi proceso de diseño.
