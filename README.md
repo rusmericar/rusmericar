@@ -18,8 +18,6 @@ Vengo de +3 años en branding y comunicación estratégica. Hoy aplico ese enfoq
 
 ## Proyectos
 
-**[Portafolio](https://rusmericardenasprojects.pages.dev/)**: mis proyectos y mi proceso de diseño.
-
 **[Army Universe](https://rusmericar.github.io/webarmy/)**: sitio web para un fanclub independiente en Perú.
 
 **[Milyspa](https://rusmericar.github.io/milyspa/)**: landing page para un emprendimiento de cosmiatría en San Juan de Miraflores.
