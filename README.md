@@ -22,6 +22,8 @@ Vengo de +3 años en branding y comunicación estratégica. Hoy aplico ese enfoq
 
 **[Milyspa](https://rusmericar.github.io/milyspa/)**: landing page para un emprendimiento de cosmiatría en San Juan de Miraflores.
 
+**[Alma Agency](https://github.com/rusmericar/landing-page-karma)**: landing page de escritorio diseñada y maquetada en Figma.
+
 ## Contacto
 
 [LinkedIn](https://www.linkedin.com/in/rusmericardenasquispe) · rusmericardenas9@gmail.com
