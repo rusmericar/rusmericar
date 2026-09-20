@@ -12,9 +12,18 @@ Vengo de +3 años en branding y comunicación estratégica. Hoy aplico ese enfoq
 
 **Web:** llevo mis diseños a la práctica con HTML y CSS.
 
+## Lenguajes
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
 ## Herramientas
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+
+- **Figma:** donde diseño y prototipo interfaces antes de llevarlas a código.
+- **Illustrator:** para piezas gráficas más pulidas, con identidad y detalle.
+- **VS Code:** donde convierto mis diseños en HTML y CSS.
+- **IA (Claude):** mi asistente para agilizar procesos, con el criterio de diseño siempre de mi lado.
 
 ## Proyectos
 
